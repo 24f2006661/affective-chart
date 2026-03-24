@@ -1,0 +1,7 @@
+{
+  "prompt": "A vast, dimly lit banquet hall stretching to infinity. In the extreme foreground, an enormous table overflows with food, gold, and abundance — ten ornate chairs, all occupied by indistinct shadowed figures, their plates piled impossibly high. Behind them, receding into near-darkness, an endless grid of identical plain wooden chairs — millions of them — each holding almost nothing. A single crumb. An empty cup. The perspective is from ground level, as if the viewer is kneeling at the edge of the feast looking back. The light is warm and golden at the front, cold and grey at the back. Photorealistic. Cinematic. Extremely high detail. No text. No labels. No charts.Make the empty chairs recede further and feel more overwhelming in number.",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "World Inequality Database (WID) — Global Wealth Distribution 2023",
+  "dataset_url": "https://wid.world/data/",
+  "insight": "The 10 wealthiest individuals on Earth own more wealth than the combined total of the bottom 3.1 billion people."
+}
